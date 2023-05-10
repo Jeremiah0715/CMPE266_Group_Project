@@ -1,4 +1,3 @@
-
 rts = function (context, req) {
     var predictionUrl = 'PREDICTION_URL';
     var predictionKey = 'PREDICTION_KEY';
